@@ -2,6 +2,12 @@ import React from 'react'
 
 export default function Master() {
   return (
-    <div>Master</div>
+    <div>Master
+        <ol>
+            <li>aaa</li>
+            <li>bbb</li>
+            <li>ccc</li>
+        </ol>
+    </div>
   )
 }
